@@ -1,0 +1,3 @@
+rootProject.name='OpenVision'
+include ':app'
+include ':openCVLibrary2411'
